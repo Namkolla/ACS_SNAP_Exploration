@@ -8,4 +8,4 @@ Data
 
 Documents
 * PUMS_Data_Dictionary_2017.pdf: data dictionary for the 1-year 2017 ACS 
-* ACS2017_PUMS_README.pdf: helpful notes about the ACS survey
+* ACS2017_PUMS.pdf: helpful notes about the ACS survey
