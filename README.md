@@ -1,7 +1,7 @@
 # ACS_SNAP_Exploration
 
 Code
-* About-Hungry-Clean.ipynb: main script
+* 2017-About-Hungry-Clean.ipynb: main script
 
 Data
 * cb_2017_53_puma10_500k: shapefile components for WA PUMAs
