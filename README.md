@@ -1,7 +1,8 @@
 # ACS_SNAP_Exploration
 
 Code
-* 2017-About-Hungry-Clean.ipynb: main script
+* 2017-About-Hungry-Clean.py: main script in python script file format
+* 2017-About-Hungry-Clean.ipynb: main script in Jupyter notebook file format
 
 Data
 * cb_2017_53_puma10_500k: shapefile components for WA PUMAs
